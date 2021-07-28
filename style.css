@@ -48,9 +48,8 @@ h2{
     width: 30%;
     margin-left: 5%;
     margin-right: 5%;
-}
-.recipe-item img{
-    width: 100%;
+    box-shadow: 5px 10px 10px 10px lightgrey;
+    padding: 20px;
 }
 h3{
     font-size: 30px;
@@ -83,3 +82,18 @@ footer{
 .para-size{
     text-align: justify;
 }
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: white;
+  }
+  .food-header{
+      background-color: rgb(224, 196, 224);
+      margin: 0;
+      padding: 5px;
+      text-align: center;
+  }
